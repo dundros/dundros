@@ -3,14 +3,14 @@
     <img src="https://raw.githubusercontent.com/kubikula59/kubikula59/main/wave.gif" 
          height="45"
          width="45" />
-    I'm Jakub!
+    I'm Bořek!
 </h3>
 
 <h3> &nbsp;About Me </h3>
 
 - 📚 Software engineering student @ ZČU FAV
 - 👨‍💻 Junior developer
-- 📫 Discord - kubiiicekkk
+- 📫 Discord - dundys
 
 <h3> &nbsp;Skills </h3>
 
