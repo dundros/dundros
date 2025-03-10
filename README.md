@@ -10,6 +10,7 @@
 
 - 📚 Software engineering student @ ZČU FAV
 - 👨‍💻 Junior developer
+- 📈 Entrepreneur in soft
 - 📫 Discord - dundys
 
 <h3> &nbsp;Skills </h3>
