@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="left">
     Hi
     <img src="https://raw.githubusercontent.com/kubikula59/kubikula59/main/wave.gif" 
          height="45"
