@@ -15,7 +15,7 @@
 
 <h3> &nbsp;Skills </h3>
 
-  ![C#](https://img.shields.io/badge/C#-14692E.svg?style=for-the-badge&logo=csharp&logoColor=%14692E)
+  ![C#](https://img.shields.io/badge/C#-14692E.svg?style=for-the-badge&logo=c#&logoColor=%14692E)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
